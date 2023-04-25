@@ -8,6 +8,8 @@ https://docs.google.com/presentation/d/1pPra3eLJ9-lYwwvx8_Ivj_sj3V2gmE75cb13comV
 
 https://github.com/takechanman1228/mmm_pydata_global_2022/blob/main/simple_end_to_end_demo_pydataglobal.ipynb
 
+*Video*
+https://www.youtube.com/watch?v=u4U_PUTasPQ
 
 *Reference*
 - [Jin, Y., Wang, Y., Sun, Y., Chan, D., & Koehler, J. (2017). Bayesian Methods for Media Mix Modeling with Carryover and Shape Effects. Google Inc.](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf)
