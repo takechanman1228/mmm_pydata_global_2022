@@ -1,15 +1,19 @@
 # mmm_pydata_global_2022
 
 *Towards Data Science (Article)*
+
 https://towardsdatascience.com/media-mix-modeling-how-to-measure-the-effectiveness-of-advertising-with-python-lightweightmmm-b6d7de110ae6
 
 *Slide*
+
 https://docs.google.com/presentation/d/1pPra3eLJ9-lYwwvx8_Ivj_sj3V2gmE75cb13comV9pc/edit?usp=sharing
 
 *Demo Code*
+
 https://github.com/takechanman1228/mmm_pydata_global_2022/blob/main/simple_end_to_end_demo_pydataglobal.ipynb
 
 *Video*
+
 https://www.youtube.com/watch?v=u4U_PUTasPQ
 
 *Reference*
