@@ -1,5 +1,7 @@
 This repository contains materials related to Hajime Takeda's presentation on media mix modeling at [PyData Global 2022](https://pydata.org/global2022/). The talk demonstrates how to measure the effectiveness of advertising using Python and the LightweightMMM library.
 
+📘 Latest version: See [Marketing Science in Python](https://marketing-science-in-python.com/) for updated content on marketing mix modeling and marketing measurement.
+
 ## Contents
 - [Slide Deck](https://docs.google.com/presentation/d/1pPra3eLJ9-lYwwvx8_Ivj_sj3V2gmE75cb13comV9pc/edit?usp=sharing)
 - [Demo Code](https://github.com/takechanman1228/mmm_pydata_global_2022/blob/main/simple_end_to_end_demo_pydataglobal.ipynb)
